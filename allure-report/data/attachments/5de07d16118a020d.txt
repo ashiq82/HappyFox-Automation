@@ -1,0 +1,2 @@
+INFO     enter_user_name:login_page_obj.py:19 Entered Username Ashiq
+INFO     enter_password:login_page_obj.py:24 Entered Password Asdasd@1

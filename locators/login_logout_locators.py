@@ -1,0 +1,12 @@
+class LoginScreen:
+    user_name = "id_username"
+    password = "id_password"
+    remember_me = "id_remember_me"
+    login_button = "btn-submit"
+    resend_otp = "resend_button"
+    remember_device = "id_remember_device"
+    otp_input = "id_code"
+    final_login = "input[type='submit']"
+    user_avatar = "div[data-test-id='staff-menu'] img"
+    logout = "li[data-test-id='staff-menu_logout']>a"
+    logout_confirmation = "//div[contains(text(),'You have logged out successfully.')]"
